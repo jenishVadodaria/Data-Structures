@@ -84,11 +84,11 @@ class BST {
 
 const bst = new BST();
 
-bst.add(23);
-bst.add(20);
-bst.add(25);
-bst.add(30);
-bst.add(17);
+bst.add(23); //This is root element: 23
+bst.add(20); //Left side node : 20
+bst.add(25); //Right side node : 25
+bst.add(30); //Right side node : 30
+bst.add(17); //Left side node : 17
 
 // bst.add(23);
 // bst.add(23);
