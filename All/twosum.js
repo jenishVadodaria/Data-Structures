@@ -1,6 +1,6 @@
 let a = [2, 6, 5, 8, 11];
 
-let target = 14;
+let target = 19;
 
 // function twosum(arr, target) {
 //     for (let i = 0; i < arr.length; i++) {
